@@ -57,7 +57,7 @@
       
       </div>
       
-      <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSx8LYueOMsWQfHaDM58iO-yEnhGfoZHg&libraries=places"></script>
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key=Your_Google_Maps_Key&libraries=places"></script>
 
  
 
